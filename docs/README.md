@@ -20,5 +20,7 @@ MPolkaInt
 IntData
 ```
 
+*Get the token in influxDB initialization and paste at **.env***
+
 #### Data sctructures and models
 https://docs.influxdata.com/influxdb/v2/reference/key-concepts/data-elements/
