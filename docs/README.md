@@ -13,11 +13,11 @@ admin
 ```
  - Organization
 ```
-MPolkaInt
+mpolkaint
 ```
  - Bucket
 ```
-IntData
+sol1
 ```
 
 *Get the token in influxDB initialization and paste at **.env***

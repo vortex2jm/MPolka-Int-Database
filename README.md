@@ -13,3 +13,5 @@
 ```
 http://localhost:8086
 ```
+
+*Remember to modify the volume path in the createdb.sh script.* 
