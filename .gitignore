@@ -1,2 +1,4 @@
 .env
 influxdb_volume/
+__pycache__/
+receive.py
